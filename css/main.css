@@ -1,0 +1,51 @@
+html {
+  font-family: 'Merriweather', serif;
+}
+
+td {
+  height: 10em;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid #e2e2e2;
+}
+
+.date {
+  vertical-align: top;
+  font-weight: bold;
+}
+
+.rocket {
+  background-color: #f2f2f2;
+  border: solid;
+  border-color: #666;
+  border-radius: 8px;
+}
+
+.holiday {
+  background-color: #f2bcbc;
+  border: solid;
+  border-color: #b92828;
+  border-radius: 8px;
+  color: #991919;
+}
+
+.historical {
+  background-color: #d1e0bf;
+  border: solid;
+  border-color: #6b7e54;
+  border-radius: 8px;
+  color: #51603f;
+}
+
+.culture {
+  background-color: #d2d6f0;
+  border: solid;
+  border-color: #1d38da;
+  border-radius: 8px;
+  color: #38448e;
+}

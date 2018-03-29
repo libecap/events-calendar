@@ -1,5 +1,5 @@
 html {
-  font-family: 'Merriweather', serif;
+  font-family: Merriweather, serif;
 }
 
 td {
@@ -11,17 +11,18 @@ table {
 }
 
 th, td {
-  border: 1px solid #e2e2e2;
+  border: 1px solid #ccc;
 }
 
 .date {
   vertical-align: top;
-  font-weight: bold;
+  color: #333;
 }
 
 .rocket {
   background-color: #f2f2f2;
   border: solid;
+  border-width: 1px;
   border-color: #666;
   border-radius: 8px;
 }
@@ -32,6 +33,7 @@ th, td {
   border-color: #b92828;
   border-radius: 8px;
   color: #991919;
+  border-width: 1px;
 }
 
 .historical {
@@ -40,6 +42,7 @@ th, td {
   border-color: #6b7e54;
   border-radius: 8px;
   color: #51603f;
+  border-width: 1px;
 }
 
 .culture {
@@ -48,4 +51,5 @@ th, td {
   border-color: #1d38da;
   border-radius: 8px;
   color: #38448e;
+  border-width: 1px;
 }
